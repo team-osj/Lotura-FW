@@ -1,7 +1,7 @@
 #ifndef _MANAGERHTML_H
 #define _MANAGERHTML_H
 
-const char manager_html[] = R"rawliteral(
+const char managerHtml[] = R"rawliteral(
 <!DOCTYPE HTML>
 <html>
 
